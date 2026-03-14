@@ -1,0 +1,32 @@
+MedFlow Pro Demo Narration
+==========================
+
+1. Welcome
+"This is MedFlow Pro — a medical billing and revenue cycle management workspace. We'll walk through a complete workflow from login to claim submission and payment."
+
+2. Login
+"We sign in with our staff account. The app is scoped to one organization so all data stays within your practice."
+
+3. Dashboard
+"After login we see the dashboard: KPI cards, A/R aging, and the claims queue. Empty states are normal before adding data."
+
+4. Patients
+"We open the Patients tab and add a new patient: name, date of birth, and optional insurance ID. This builds the roster used across claims and payments."
+
+5. Claims setup
+"In Claims we first add a provider and a payer using quick add. Providers are rendering clinicians; payers are insurance plans. Both are required for drafting claims."
+
+6. Claim draft
+"We select the patient, provider, and payer. Then we add at least one procedure — CPT code, description, units, and charge — and one diagnosis with an ICD-10 code. We save the draft."
+
+7. Submit claim
+"In the claims queue we submit the draft. Status moves to submitted. The claim is now in the billing pipeline."
+
+8. Payments
+"We switch to Payments, create a new payment link for the patient, enter an amount and description, and generate the link."
+
+9. Demo checkout
+"We open the demo checkout page. This is an internal simulation — no real gateway. We click Simulate success to complete the payment."
+
+10. Wrap-up
+"The payment shows as completed and, when linked to a claim, can update claim status. That’s the core MedFlow Pro flow: patients, claims, submissions, and payments in one workspace."
